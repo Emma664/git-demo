@@ -13,3 +13,5 @@
 text for branch
 
 another text
+
+non fast forward merge
